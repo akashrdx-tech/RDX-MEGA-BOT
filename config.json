@@ -1,12 +1,12 @@
 {
   "PORT": 5000,
   "LOGIN_METHOD": "cookies",
-  "BOTNAME": "🩷𓆩๛⃝𝐌𝐀𝐍𝐎𓆪𓆤",
+  "BOTNAME": "🩷𓆩๛SABA BOT𓆪𓆤",
   "PREFIX": ".",
-  "ADMINBOT": [],
-  "ADMIN_NAME": "Sardar RDX",
+  "ADMINBOT": ["],
+  "ADMIN_NAME": "SABA JANI",
   "ADMINBOT_NAMES": {
-    "61577647262557": "Sardar RDX"
+    "61577647262557": "SABA JANI"
   },
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
@@ -24,10 +24,10 @@
   "DISABLED_COMMANDS": [],
   "NOTIFY_TID": "947123558188847",
   "AI_NAME": "Mano",
-  "AI_OWNER": "Sardar RDX",
+  "AI_OWNER": "SABA JANI",
   "AI_OWNER_UID": "61577647262557",
   "AI_MODEL": "gpt-oss-120b",
   "AI_ENABLED": true,
-  "AI_API_KEY": "",
+  "AI_API_KEY": "csk-jr9ct2fy8j646j5mcevh4dt3v9tr6eccct58jn4tc8p6vy4j",
   "CEREBRAS_API_URL": "https://api.cerebras.ai/"
 }
