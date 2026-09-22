@@ -3,10 +3,10 @@
   "LOGIN_METHOD": "cookies",
   "BOTNAME": "🩷𓆩๛SABA BOT𓆪𓆤",
   "PREFIX": ".",
-  "ADMINBOT": ["],
+  "ADMINBOT": ["61593732376700"],
   "ADMIN_NAME": "SABA JANI",
   "ADMINBOT_NAMES": {
-    "61577647262557": "SABA JANI"
+    "61593732376700": "SABA JANI"
   },
   "PREFIX_ENABLED": true,
   "REACT_DELETE_EMOJI": "😡",
@@ -25,7 +25,7 @@
   "NOTIFY_TID": "947123558188847",
   "AI_NAME": "Mano",
   "AI_OWNER": "SABA JANI",
-  "AI_OWNER_UID": "61577647262557",
+  "AI_OWNER_UID": "61593732376700",
   "AI_MODEL": "gpt-oss-120b",
   "AI_ENABLED": true,
   "AI_API_KEY": "csk-jr9ct2fy8j646j5mcevh4dt3v9tr6eccct58jn4tc8p6vy4j",
