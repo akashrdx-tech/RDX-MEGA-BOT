@@ -5,10 +5,7 @@ const moment = require('moment-timezone');
 
 const CACHE_DIR = path.join(__dirname, 'cache');
 const BG_IMAGES = [
-  "https://i.imgur.com/Kj2CmiZ.jpeg",
-  "https://i.imgur.com/yiNOiVU.jpeg",
-  "https://i.postimg.cc/Sx7Yk5D0/ef81664323554dd5c8f17f0826e26e5e.jpg",
-  "https://i.postimg.cc/DwqYrqPQ/b123e2cb78bcb4fa5dcb53dfdeed2611.jpg"
+  "https://i.ibb.co/WW6ZyM9h/Whats-App-Image-2026-09-22-at-11-05-28-AM.jpg",
 ];
 
 module.exports = {
